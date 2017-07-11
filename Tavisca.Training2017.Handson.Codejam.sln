@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Factorial", "..\..\sakshi\Factorial\Factorial\Factorial.csproj", "{64E10FAC-3786-4C85-8927-9E37ACD6E4BB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Queue_Implementation", "..\..\sakshi\Queue_Implementation\Queue_Implementation\Queue_Implementation.csproj", "{5257DED2-712D-4BCE-B2DE-218FDD443897}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Queue_using_two_Stacks", "..\..\sakshi\Queue_using_two_Stacks\Queue_using_two_Stacks\Queue_using_two_Stacks.csproj", "{9A9ACACA-A773-4E27-8B4A-40235D0ABF49}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Stack_Implementation", "..\..\sakshi\Stack_Implementation\Stack_Implementation\Stack_Implementation.csproj", "{C9E8F0DC-D0F8-42E5-BF80-4174CAA9AE75}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tavisca.training.2017.check_substring", "..\..\sakshi\tavisca.training.2017.check_substring\tavisca.training.2017.check_substring\tavisca.training.2017.check_substring.csproj", "{F52860A1-3386-48EF-BDF5-5560E0D4A3A4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{64E10FAC-3786-4C85-8927-9E37ACD6E4BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64E10FAC-3786-4C85-8927-9E37ACD6E4BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64E10FAC-3786-4C85-8927-9E37ACD6E4BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64E10FAC-3786-4C85-8927-9E37ACD6E4BB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5257DED2-712D-4BCE-B2DE-218FDD443897}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5257DED2-712D-4BCE-B2DE-218FDD443897}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5257DED2-712D-4BCE-B2DE-218FDD443897}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5257DED2-712D-4BCE-B2DE-218FDD443897}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9A9ACACA-A773-4E27-8B4A-40235D0ABF49}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A9ACACA-A773-4E27-8B4A-40235D0ABF49}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A9ACACA-A773-4E27-8B4A-40235D0ABF49}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A9ACACA-A773-4E27-8B4A-40235D0ABF49}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C9E8F0DC-D0F8-42E5-BF80-4174CAA9AE75}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9E8F0DC-D0F8-42E5-BF80-4174CAA9AE75}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9E8F0DC-D0F8-42E5-BF80-4174CAA9AE75}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9E8F0DC-D0F8-42E5-BF80-4174CAA9AE75}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F52860A1-3386-48EF-BDF5-5560E0D4A3A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F52860A1-3386-48EF-BDF5-5560E0D4A3A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F52860A1-3386-48EF-BDF5-5560E0D4A3A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F52860A1-3386-48EF-BDF5-5560E0D4A3A4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
