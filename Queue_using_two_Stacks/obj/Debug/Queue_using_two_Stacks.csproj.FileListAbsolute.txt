@@ -1,0 +1,6 @@
+D:\sakshi\Queue_using_two_Stacks\Queue_using_two_Stacks\obj\Debug\Queue_using_two_Stacks.csprojResolveAssemblyReference.cache
+D:\sakshi\Queue_using_two_Stacks\Queue_using_two_Stacks\bin\Debug\Queue_using_two_Stacks.exe.config
+D:\sakshi\Queue_using_two_Stacks\Queue_using_two_Stacks\bin\Debug\Queue_using_two_Stacks.exe
+D:\sakshi\Queue_using_two_Stacks\Queue_using_two_Stacks\bin\Debug\Queue_using_two_Stacks.pdb
+D:\sakshi\Queue_using_two_Stacks\Queue_using_two_Stacks\obj\Debug\Queue_using_two_Stacks.exe
+D:\sakshi\Queue_using_two_Stacks\Queue_using_two_Stacks\obj\Debug\Queue_using_two_Stacks.pdb

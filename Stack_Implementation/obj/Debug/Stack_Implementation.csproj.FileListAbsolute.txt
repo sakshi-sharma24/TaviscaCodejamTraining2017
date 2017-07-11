@@ -1,0 +1,6 @@
+D:\sakshi\Stack_Implementation\Stack_Implementation\bin\Debug\Stack_Implementation.exe.config
+D:\sakshi\Stack_Implementation\Stack_Implementation\bin\Debug\Stack_Implementation.exe
+D:\sakshi\Stack_Implementation\Stack_Implementation\bin\Debug\Stack_Implementation.pdb
+D:\sakshi\Stack_Implementation\Stack_Implementation\obj\Debug\Stack_Implementation.csprojResolveAssemblyReference.cache
+D:\sakshi\Stack_Implementation\Stack_Implementation\obj\Debug\Stack_Implementation.exe
+D:\sakshi\Stack_Implementation\Stack_Implementation\obj\Debug\Stack_Implementation.pdb

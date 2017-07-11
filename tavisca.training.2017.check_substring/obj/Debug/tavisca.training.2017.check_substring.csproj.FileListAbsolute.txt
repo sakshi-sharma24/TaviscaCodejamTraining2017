@@ -1,0 +1,12 @@
+c:\users\sakshis\documents\visual studio 2017\Projects\tavisca.training.2017.check_substring\tavisca.training.2017.check_substring\bin\Debug\tavisca.training.2017.check_substring.exe.config
+c:\users\sakshis\documents\visual studio 2017\Projects\tavisca.training.2017.check_substring\tavisca.training.2017.check_substring\bin\Debug\tavisca.training.2017.check_substring.exe
+c:\users\sakshis\documents\visual studio 2017\Projects\tavisca.training.2017.check_substring\tavisca.training.2017.check_substring\bin\Debug\tavisca.training.2017.check_substring.pdb
+c:\users\sakshis\documents\visual studio 2017\Projects\tavisca.training.2017.check_substring\tavisca.training.2017.check_substring\obj\Debug\tavisca.training.2017.check_substring.csprojResolveAssemblyReference.cache
+c:\users\sakshis\documents\visual studio 2017\Projects\tavisca.training.2017.check_substring\tavisca.training.2017.check_substring\obj\Debug\tavisca.training.2017.check_substring.exe
+c:\users\sakshis\documents\visual studio 2017\Projects\tavisca.training.2017.check_substring\tavisca.training.2017.check_substring\obj\Debug\tavisca.training.2017.check_substring.pdb
+D:\sakshi\tavisca.training.2017.check_substring\tavisca.training.2017.check_substring\bin\Debug\tavisca.training.2017.check_substring.exe.config
+D:\sakshi\tavisca.training.2017.check_substring\tavisca.training.2017.check_substring\bin\Debug\tavisca.training.2017.check_substring.exe
+D:\sakshi\tavisca.training.2017.check_substring\tavisca.training.2017.check_substring\bin\Debug\tavisca.training.2017.check_substring.pdb
+D:\sakshi\tavisca.training.2017.check_substring\tavisca.training.2017.check_substring\obj\Debug\tavisca.training.2017.check_substring.csprojResolveAssemblyReference.cache
+D:\sakshi\tavisca.training.2017.check_substring\tavisca.training.2017.check_substring\obj\Debug\tavisca.training.2017.check_substring.exe
+D:\sakshi\tavisca.training.2017.check_substring\tavisca.training.2017.check_substring\obj\Debug\tavisca.training.2017.check_substring.pdb

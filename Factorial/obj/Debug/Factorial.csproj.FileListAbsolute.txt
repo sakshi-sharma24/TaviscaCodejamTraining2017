@@ -1,0 +1,5 @@
+D:\sakshi\Factorial\Factorial\bin\Debug\Factorial.exe.config
+D:\sakshi\Factorial\Factorial\bin\Debug\Factorial.exe
+D:\sakshi\Factorial\Factorial\bin\Debug\Factorial.pdb
+D:\sakshi\Factorial\Factorial\obj\Debug\Factorial.exe
+D:\sakshi\Factorial\Factorial\obj\Debug\Factorial.pdb
